@@ -87,4 +87,34 @@ py -B -m unittest -v test_click_engine
 
 ## سازنده
 
-[گیت‌هاب](https://github.com/FarlandGame) · [یوتیوب](https://www.youtube.com/@Farland_game)
+**بردیا علیزاده، ملقب به کبیر · Farland_game**
+
+[صفحهٔ نمونه‌کارهای گیت‌هاب](https://github.com/FarlandGame)
+
+### کانال‌ها و شبکه‌های اجتماعی
+
+| پلتفرم | کانال‌ها / صفحه‌ها |
+| --- | --- |
+| YouTube | [Farland_game](https://www.youtube.com/@Farland_game) · [Farland_animation](https://www.youtube.com/@Farland_animation) |
+| کانال‌های روبیکا | [farland_gam](https://rubika.ir/farland_gam) · [Farland_animatio](https://rubika.ir/Farland_animatio) |
+| صفحه‌های روبیکا | [farland_game](https://rubika.ir/farland_game) · [Farland_animations](https://rubika.ir/Farland_animations) |
+| Instagram | [farland_game](https://www.instagram.com/farland_game/) |
+| کانال‌های تلگرام | [Farland_gam](https://t.me/Farland_gam) · [Farland_animatio](https://t.me/Farland_animatio) |
+| Twitch | [farlandgame](https://twitch.tv/farlandgame) |
+| Kick | [farlandgame](https://kick.com/farlandgame) |
+| Aparat | [Farland_Game](https://aparat.com/Farland_Game) |
+| SoundCloud | [Bardiya Kabir](https://soundcloud.com/bardiya-kabir-798008614) |
+
+### ربات موسیقی تلگرام
+
+[ربات Farland Music Bot](https://t.me/Farland_Music_bot) — لینک ویدیوی آهنگ موردعلاقه‌ات را به ربات تلگرامی ما بفرست تا آهنگ را پیدا کنی.
+
+### جامعه و خانواده
+
+- **THE APEX:** [یوتیوب](https://www.youtube.com/@THE_APEX_MC) · [تلگرام](https://t.me/+-3uY7eIZArVjZDE0)
+- **منهانت:** [گروه تلگرام](https://t.me/+DAq20XrkPyZhNjVk)
+- **کانال برادرم:** [ArmiyaFabix در یوتیوب](https://www.youtube.com/@ArmiyaFabix)
+
+### حمایت از کارهای من
+
+[حمایت مالی از طریق ریمیت](https://reymit.ir/farland_game) ❤️
