@@ -1,16 +1,16 @@
-# Farland Auto Clicker
+# Farland_autcliker
 
-[English](README.md) | [日本語](docs/README.ja.md) | [فارسی](docs/README.fa.md)
+[English](README.md) | [日本語](docs/README.ja.md) | [فارسی](docs/README.fa.md) | [Deutsch](docs/README.de.md) | [Français](docs/README.fr.md) | [Español](docs/README.es.md) | [Português (Brasil)](docs/README.pt-BR.md) | [Italiano](docs/README.it.md) | [Nederlands](docs/README.nl.md) | [Polski](docs/README.pl.md) | [Українська](docs/README.uk.md) | [Türkçe](docs/README.tr.md) | [Русский](docs/README.ru.md) | [简体中文](docs/README.zh-CN.md) | [繁體中文](docs/README.zh-TW.md) | [한국어](docs/README.ko.md) | [हिन्दी](docs/README.hi.md) | [Bahasa Indonesia](docs/README.id.md)
 
 A Windows auto clicker where each physical click starts an independent one-second burst of additional clicks, with separate left/right controls and a Persian interface.
 
 **Created by Bardiya Alizadeh (Kabir), known as Farland_game.**
 
-**[Download the Windows ZIP](https://github.com/FarlandGame/Farland-Auto-Clicker/releases/latest/download/Farland-Auto-Clicker.zip)** · [All releases](https://github.com/FarlandGame/Farland-Auto-Clicker/releases)
+**[Download the Windows ZIP](https://github.com/FarlandGame/Farland_autcliker/releases/latest/download/Farland_autcliker.zip)** · [All releases](https://github.com/FarlandGame/Farland_autcliker/releases)
 
-![Farland Auto Clicker interface](preview.png)
+![Farland_autcliker interface](preview.png)
 
-Farland Auto Clicker is a Windows desktop application created by **Bardiya Alizadeh (Kabir), known as Farland_game**. Its defining feature is the way automation begins: **each physical mouse click starts its own one-second burst of additional clicks**. It is designed for people who want to decide when a burst starts through their own mouse input, while controlling the left and right buttons independently. The application combines this behavior with a Persian interface, customizable controls, saved preferences, and a ready-to-run Windows executable.
+Farland_autcliker is a Windows desktop application created by **Bardiya Alizadeh (Kabir), known as Farland_game**. Its defining feature is the way automation begins: **each physical mouse click starts its own one-second burst of additional clicks**. It is designed for people who want to decide when a burst starts through their own mouse input, while controlling the left and right buttons independently. The application combines this behavior with a Persian interface, customizable controls, saved preferences, and a ready-to-run Windows executable.
 
 ## How your clicks become additional clicks
 
@@ -20,9 +20,9 @@ A second physical click starts another burst, even if the first is still running
 
 ## What makes the workflow different
 
-A familiar [repeat-until-stopped workflow](https://www.opautoclicker.com/) runs a repeated sequence after activation. Farland Auto Clicker's distinction is **physical-click-triggered bursts**, with separate settings for each side.
+A familiar [repeat-until-stopped workflow](https://www.opautoclicker.com/) runs a repeated sequence after activation. Farland_autcliker's distinction is **physical-click-triggered bursts**, with separate settings for each side.
 
-| Interaction | Repeat-until-stopped workflow | Farland Auto Clicker |
+| Interaction | Repeat-until-stopped workflow | Farland_autcliker |
 | --- | --- | --- |
 | Start additional clicks | Start the repeat sequence | Activate, then physically click |
 | A new physical click | Not needed to keep repetition running | Starts its own additional burst |
@@ -44,11 +44,11 @@ The engine distinguishes physical mouse input from Windows-injected clicks, so i
 
 ## Download and explore
 
-The public Windows ZIP includes the executable, source code, an interface preview, and English, Japanese, and Persian documentation. Extract it and open `Farland-Auto-Clicker/dist/Farland Auto Clicker.exe`; the packaged executable does not need a separate Python installation. The source targets Windows 10 or 11 and Python 3.10 or later, using Tkinter and the Windows API. The repository also includes six tests for scheduling, overlapping sides, cancellation, hotkeys, and injected-input filtering; they use simulated clicks.
+The public Windows ZIP includes the executable, source code, an interface preview, and documentation in 18 languages. Extract it and open `Farland-Auto-Clicker/dist/Farland Auto Clicker.exe`; the packaged executable does not need a separate Python installation. The source targets Windows 10 or 11 and Python 3.10 or later, using Tkinter and the Windows API. The repository also includes six tests for scheduling, overlapping sides, cancellation, hotkeys, and injected-input filtering; they use simulated clicks.
 
 ## Quick start
 
-1. Download and extract `Farland-Auto-Clicker.zip`.
+1. Download and extract `Farland_autcliker.zip`.
 2. Open `Farland-Auto-Clicker/dist/Farland Auto Clicker.exe`. The packaged application does not require a separate Python installation.
 3. Set the left and right clicks per second (CPS) and enable the sides you need.
 4. Press the middle mouse button or the main toggle button to activate the clicker.
@@ -95,7 +95,7 @@ The output is `dist/Farland Auto Clicker.exe`. To interact with an application r
 | `create_icon.py`, `farland.ico` | Application icon |
 | `Farland Auto Clicker.spec` | PyInstaller build configuration |
 | `test_click_engine.py` | Scheduler and hook behavior tests |
-| `docs/` | Japanese and Persian documentation |
+| `docs/` | Documentation in 18 languages |
 
 The release ZIP includes the existing Windows executable and the source files. Build caches and temporary files are excluded.
 
@@ -119,6 +119,7 @@ These tests use a simulated click sender; they do not generate real mouse clicks
 
 | Platform | Channels / pages |
 | --- | --- |
+| GitHub | [FarlandGame](https://github.com/FarlandGame) |
 | YouTube | [Farland_game](https://www.youtube.com/@Farland_game) · [Farland_animation](https://www.youtube.com/@Farland_animation) |
 | Rubika channels | [farland_gam](https://rubika.ir/farland_gam) · [Farland_animatio](https://rubika.ir/Farland_animatio) |
 | Rubika pages | [farland_game](https://rubika.ir/farland_game) · [Farland_animations](https://rubika.ir/Farland_animations) |

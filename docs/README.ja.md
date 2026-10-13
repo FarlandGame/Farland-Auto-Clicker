@@ -1,16 +1,16 @@
-# Farland Auto Clicker
+# Farland_autcliker
 
-[English](../README.md) | [日本語](README.ja.md) | [فارسی](README.fa.md)
+[English](../README.md) | [日本語](README.ja.md) | [فارسی](README.fa.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [Polski](README.pl.md) | [Українська](README.uk.md) | [Türkçe](README.tr.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [हिन्दी](README.hi.md) | [Bahasa Indonesia](README.id.md)
 
 実際のクリックごとに独立した 1 秒間の追加クリック処理を開始する Windows 用オートクリッカー。左右の個別設定とペルシャ語の画面を備えています。
 
 **制作者：Bardiya Alizadeh（Kabir）／活動名：Farland_game**
 
-**[Windows 用 ZIP をダウンロード](https://github.com/FarlandGame/Farland-Auto-Clicker/releases/latest/download/Farland-Auto-Clicker.zip)** · [リリース一覧](https://github.com/FarlandGame/Farland-Auto-Clicker/releases)
+**[Windows 用 ZIP をダウンロード](https://github.com/FarlandGame/Farland_autcliker/releases/latest/download/Farland_autcliker.zip)** · [リリース一覧](https://github.com/FarlandGame/Farland_autcliker/releases)
 
-![Farland Auto Clicker の画面](../preview.png)
+![Farland_autcliker の画面](../preview.png)
 
-Farland Auto Clicker は、**Bardiya Alizadeh（Kabir）／活動名 Farland_game** が制作した Windows 用デスクトップアプリです。主な特徴は、自動クリックの開始方法にあります。**実際にマウスをクリックするたびに、そのクリックをきっかけとして、1 秒間の追加クリック処理が始まります。** 自分のマウス操作で追加クリックの開始タイミングを決め、左右のボタンを個別に調整したい人に向けた設計です。ペルシャ語の画面、変更可能な操作キー、設定の保存、すぐに使える Windows 実行ファイルを備えています。
+Farland_autcliker は、**Bardiya Alizadeh（Kabir）／活動名 Farland_game** が制作した Windows 用デスクトップアプリです。主な特徴は、自動クリックの開始方法にあります。**実際にマウスをクリックするたびに、そのクリックをきっかけとして、1 秒間の追加クリック処理が始まります。** 自分のマウス操作で追加クリックの開始タイミングを決め、左右のボタンを個別に調整したい人に向けた設計です。ペルシャ語の画面、変更可能な操作キー、設定の保存、すぐに使える Windows 実行ファイルを備えています。
 
 ## 実際のクリックから追加クリックへ
 
@@ -20,9 +20,9 @@ Farland Auto Clicker は、**Bardiya Alizadeh（Kabir）／活動名 Farland_gam
 
 ## 操作の流れの違い
 
-よく使われる[停止するまで繰り返す方式](https://www.opautoclicker.com/)では、開始操作後にクリックを繰り返します。Farland Auto Clicker の特徴は、**実際のクリックごとに追加クリック処理を始めること**と、左右の設定を個別に持つことです。
+よく使われる[停止するまで繰り返す方式](https://www.opautoclicker.com/)では、開始操作後にクリックを繰り返します。Farland_autcliker の特徴は、**実際のクリックごとに追加クリック処理を始めること**と、左右の設定を個別に持つことです。
 
-| 操作 | 停止するまで繰り返す方式 | Farland Auto Clicker |
+| 操作 | 停止するまで繰り返す方式 | Farland_autcliker |
 | --- | --- | --- |
 | 追加クリックの開始 | 繰り返し処理を開始 | 有効にしてから実際にクリック |
 | 新しい実際のクリック | 繰り返しの継続には不要 | 新しい追加クリック処理を開始 |
@@ -48,7 +48,7 @@ Farland Auto Clicker は、**Bardiya Alizadeh（Kabir）／活動名 Farland_gam
 
 ## 使い方
 
-1. `Farland-Auto-Clicker.zip` をダウンロードして展開します。
+1. `Farland_autcliker.zip` をダウンロードして展開します。
 2. `Farland-Auto-Clicker/dist/Farland Auto Clicker.exe` を開きます。実行ファイル版には Python の別途インストールは必要ありません。
 3. 左右それぞれの CPS（1 秒あたりのクリック数）を設定し、使いたいボタンを有効にします。
 4. マウスの中央ボタン、またはアプリのメインボタンでオートクリッカーを有効にします。
@@ -119,6 +119,7 @@ py -B -m unittest -v test_click_engine
 
 | プラットフォーム | チャンネル／ページ |
 | --- | --- |
+| GitHub | [FarlandGame](https://github.com/FarlandGame) |
 | YouTube | [Farland_game](https://www.youtube.com/@Farland_game) · [Farland_animation](https://www.youtube.com/@Farland_animation) |
 | Rubika チャンネル | [farland_gam](https://rubika.ir/farland_gam) · [Farland_animatio](https://rubika.ir/Farland_animatio) |
 | Rubika ページ | [farland_game](https://rubika.ir/farland_game) · [Farland_animations](https://rubika.ir/Farland_animations) |

@@ -1,16 +1,16 @@
-# Farland Auto Clicker
+# Farland_autcliker
 
-[English](../README.md) | [日本語](README.ja.md) | [فارسی](README.fa.md)
+[English](../README.md) | [日本語](README.ja.md) | [فارسی](README.fa.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [Italiano](README.it.md) | [Nederlands](README.nl.md) | [Polski](README.pl.md) | [Українська](README.uk.md) | [Türkçe](README.tr.md) | [Русский](README.ru.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [हिन्दी](README.hi.md) | [Bahasa Indonesia](README.id.md)
 
 اتوکلیکر ویندوزی که با هر کلیک واقعی، یک نوبت مستقل از کلیک‌های اضافه را در طول یک ثانیه آغاز می‌کند؛ با تنظیم جداگانهٔ چپ و راست و رابط فارسی.
 
 **ساختهٔ بردیا علیزاده، ملقب به کبیر، با نام هنری Farland_game**
 
-**[دانلود فایل ZIP ویندوز](https://github.com/FarlandGame/Farland-Auto-Clicker/releases/latest/download/Farland-Auto-Clicker.zip)** · [همهٔ نسخه‌ها](https://github.com/FarlandGame/Farland-Auto-Clicker/releases)
+**[دانلود فایل ZIP ویندوز](https://github.com/FarlandGame/Farland_autcliker/releases/latest/download/Farland_autcliker.zip)** · [همهٔ نسخه‌ها](https://github.com/FarlandGame/Farland_autcliker/releases)
 
-![نمای برنامهٔ Farland Auto Clicker](../preview.png)
+![نمای برنامهٔ Farland_autcliker](../preview.png)
 
-Farland Auto Clicker یک برنامهٔ ویندوزی ساختهٔ **بردیا علیزاده، ملقب به کبیر، با نام هنری Farland_game** است. ویژگی اصلی آن به شیوهٔ آغاز کلیک‌های خودکار برمی‌گردد: **هر کلیک واقعی موس، یک نوبت مستقل از کلیک‌های اضافه را در طول یک ثانیه آغاز می‌کند.** این طراحی برای کسی مناسب است که می‌خواهد زمان شروع کلیک‌های اضافه را با حرکت و کلیک خودش تعیین کند و تنظیمات کلیک چپ و راست را جداگانه در اختیار داشته باشد. رابط فارسی، کنترل‌های قابل تغییر، ذخیرهٔ تنظیمات و نسخهٔ اجرایی آمادهٔ ویندوز، این رفتار را در یک برنامه جمع می‌کنند.
+Farland_autcliker یک برنامهٔ ویندوزی ساختهٔ **بردیا علیزاده، ملقب به کبیر، با نام هنری Farland_game** است. ویژگی اصلی آن به شیوهٔ آغاز کلیک‌های خودکار برمی‌گردد: **هر کلیک واقعی موس، یک نوبت مستقل از کلیک‌های اضافه را در طول یک ثانیه آغاز می‌کند.** این طراحی برای کسی مناسب است که می‌خواهد زمان شروع کلیک‌های اضافه را با حرکت و کلیک خودش تعیین کند و تنظیمات کلیک چپ و راست را جداگانه در اختیار داشته باشد. رابط فارسی، کنترل‌های قابل تغییر، ذخیرهٔ تنظیمات و نسخهٔ اجرایی آمادهٔ ویندوز، این رفتار را در یک برنامه جمع می‌کنند.
 
 ## کلیک خودت چگونه به کلیک‌های اضافه تبدیل می‌شود؟
 
@@ -20,9 +20,9 @@ Farland Auto Clicker یک برنامهٔ ویندوزی ساختهٔ **بردی�
 
 ## تفاوت شیوهٔ کار با حالت تکرار پیوسته
 
-در [حالت تکرار تا زمان توقف](https://www.opautoclicker.com/)، با شروع برنامه یک زنجیرهٔ تکراری از کلیک‌ها اجرا می‌شود. ویژگی متمایز Farland Auto Clicker، **شروع نوبت‌های اضافه با هر کلیک واقعی** و تنظیم مستقل دو سمت موس است.
+در [حالت تکرار تا زمان توقف](https://www.opautoclicker.com/)، با شروع برنامه یک زنجیرهٔ تکراری از کلیک‌ها اجرا می‌شود. ویژگی متمایز Farland_autcliker، **شروع نوبت‌های اضافه با هر کلیک واقعی** و تنظیم مستقل دو سمت موس است.
 
-| رفتار | حالت تکرار تا توقف | Farland Auto Clicker |
+| رفتار | حالت تکرار تا توقف | Farland_autcliker |
 | --- | --- | --- |
 | آغاز کلیک اضافه | شروع زنجیرهٔ تکرار | روشن‌کردن و سپس کلیک واقعی |
 | کلیک واقعی تازه | برای ادامهٔ تکرار لازم نیست | نوبت مستقل تازه‌ای می‌سازد |
@@ -48,7 +48,7 @@ Farland Auto Clicker یک برنامهٔ ویندوزی ساختهٔ **بردی�
 
 ## شروع استفاده
 
-1. فایل `Farland-Auto-Clicker.zip` را دانلود و از حالت فشرده خارج کنید.
+1. فایل `Farland_autcliker.zip` را دانلود و از حالت فشرده خارج کنید.
 2. فایل `Farland-Auto-Clicker/dist/Farland Auto Clicker.exe` را باز کنید. نسخهٔ اجرایی به نصب جداگانهٔ Python نیاز ندارد.
 3. تعداد کلیک در ثانیه (CPS) را برای چپ و راست تعیین کنید و سمت‌های موردنیاز را فعال کنید.
 4. با کلیک وسط موس یا دکمهٔ اصلی برنامه، اتوکلیکر را روشن کنید.
@@ -119,6 +119,7 @@ py -B -m unittest -v test_click_engine
 
 | پلتفرم | کانال‌ها / صفحه‌ها |
 | --- | --- |
+| GitHub | [FarlandGame](https://github.com/FarlandGame) |
 | YouTube | [Farland_game](https://www.youtube.com/@Farland_game) · [Farland_animation](https://www.youtube.com/@Farland_animation) |
 | کانال‌های روبیکا | [farland_gam](https://rubika.ir/farland_gam) · [Farland_animatio](https://rubika.ir/Farland_animatio) |
 | صفحه‌های روبیکا | [farland_game](https://rubika.ir/farland_game) · [Farland_animations](https://rubika.ir/Farland_animations) |
